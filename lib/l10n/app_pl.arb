@@ -1,0 +1,15 @@
+{
+    "log_out": "Wyloguj",
+    "reload": "Zarepetować",
+    "invalid_email_address": "Niepoprawny adres email",
+    "too_short_password": "Za krótkie hasło",
+    "welcome": "WITAMY",
+    "login": "Zaloguj sie",
+    "register": "Zarejestrować",
+    "email": "E-mail",
+    "password": "Hasło",
+    "hello": "Cześć!",
+    "movies": "Filmy",
+    "fav_movies": "Ulubione filmy",
+    "languages": "Języki"
+}

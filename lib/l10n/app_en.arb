@@ -1,0 +1,15 @@
+{
+    "log_out": "Log out",
+    "reload": "Reload",
+    "invalid_email_address": "Invalid email address",
+    "too_short_password": "Too short password",
+    "welcome": "WELCOME",
+    "login": "Login",
+    "register": "Register",
+    "email": "Email",
+    "password": "Password",
+    "hello": "Hello!",
+    "movies": "Movies",
+    "fav_movies": "Favourite movies",
+    "languages": "Languages"
+}

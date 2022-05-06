@@ -1,0 +1,15 @@
+{
+    "log_out": "Cerrar sesión",
+    "reload": "Recargar",
+    "invalid_email_address": "Dirección de correo electrónico no válida",
+    "too_short_password": "Contraseña demasiado corta",
+    "welcome": "BIENVENIDO",
+    "login": "Acceso",
+    "register": "Registro",
+    "email": "E-mail",
+    "password": "Clave",
+    "hello": "¡Hola!",
+    "movies": "Películas",
+    "fav_movies": "Peliculas favoritas",
+    "languages": "Idiomas"
+}
